@@ -1,6 +1,5 @@
  body{
-     background-color: rgba(2, 34, 5, 0.8);
-    color: white;
+    background-image: linear-gradient(to right, #262222, #3a945eb3);
     text-align: center;
 }
 
@@ -8,8 +7,18 @@ h1{
     font-size: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-color: black;
+    background-image: linear-gradient(to right, #262222, #3a945eb3);
     position:  relative;
-  
+    color:rgb(247, 244, 244);
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(92, 88, 88);
+}
+
+
 
