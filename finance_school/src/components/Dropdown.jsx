@@ -16,13 +16,13 @@ const Dropdown = ({ setIsDropdownOpen }) => {
 
   return (
     <div className="dropdown-container">
-      <label className="dropdown-label">More Info</label>
+       
       <button
         className="dropdown-button"
         onClick={toggleDropdown}
         type="button"
       >
-        ☰
+      More
       </button>
       {showMenu && (
         <ul className="dropdown-menu">
