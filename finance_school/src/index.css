@@ -1,5 +1,5 @@
  body{
-    background-image: linear-gradient(to right, #262222, #3a945eb3);
+    background-image: linear-gradient(to right, #584e4e, #55f695ac);
     text-align: center;
 }
 
@@ -7,7 +7,7 @@ h1{
     font-size: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
-    background-image: linear-gradient(to right, #262222, #3a945eb3);
+    background-image: linear-gradient(to right, #584e4e, #55f695ac);
     position:  relative;
     color:rgb(247, 244, 244);
 }
@@ -17,7 +17,11 @@ a{
     color: white;
 }
 a:hover{
-    color: rgb(92, 88, 88);
+    color: rgb(73, 196, 94);
+}
+li{
+    list-style-type: none;  
+    color: white;
 }
 
 
