@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 function Nav() {
   return (
     <nav>
+      
       <ul>
         <li>
           <Link to="/Home">Home</Link>
@@ -15,7 +16,9 @@ function Nav() {
         <li>
           <Link to="/ContactUs">Contact Us</Link>
         </li>
+        
       </ul>
+
     </nav>
   );
 }

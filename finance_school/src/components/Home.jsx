@@ -5,8 +5,8 @@ function Home() {
     
   return (
     <div>
-      
-      <h1>Finance Advisor</h1>
+    
+       
 
       
       
